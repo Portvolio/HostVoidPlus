@@ -1,0 +1,6 @@
+name: HostVoidPlus
+version: ${project.version}
+main: wtf.violet.portvolio.hostvoidplus.HostVoidPlus
+api-version: 1.16
+authors: [violetwtf]
+website: https://violet.wtf
